@@ -19,5 +19,6 @@ I'm passionate about diving into the world of Artificial Intelligence and Machin
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/amritesh-rai-630836260/)
+- Email: amriteshrai7810@gmail.com
 
 Feel free to explore my repositories and projects. Let's learn and grow together! 🚀
