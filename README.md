@@ -10,6 +10,17 @@ I'm passionate about diving into the world of Artificial Intelligence and Machin
 - 👨‍💻 Aspiring Data Scientist.
 - 📚 I believe in continuous learning and staying curious.
 
+## Skills
+
+- Python
+- Numpy
+- Pandas
+- Machine Learning
+- Power BI
+- Advanced Excel
+- SQL
+- MYSQL
+
 ## Current Focus
 
 - 🤖 Developing skills in machine learning algorithms and data analysis.
