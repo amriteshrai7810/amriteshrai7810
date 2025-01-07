@@ -7,7 +7,9 @@ I'm passionate about exploring the world of data analytics and uncovering insigh
 ## About Me
 
 🌱 I’m currently learning and exploring advanced analytics and machine learning techniques.
+
 👨‍💻 Aspiring Data Analyst with a strong focus on data-driven decision-making.
+
 📚 I believe in continuous learning, curiosity, and uncovering actionable insights from data.
 
 ## Skills
@@ -22,7 +24,9 @@ I'm passionate about exploring the world of data analytics and uncovering insigh
 ## Current Focus
 
 🤖 Enhancing expertise in data analysis and machine learning algorithms.
+
 📊 Mastering data visualization techniques with tools like Power BI and Python.
+
 🧠 Building impactful projects to bridge theory and real-world applications.
 
 ## Connect with Me
