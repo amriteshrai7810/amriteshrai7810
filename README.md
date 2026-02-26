@@ -2,7 +2,7 @@
 
 I'm passionate about exploring the world of data analytics and uncovering insights through data-driven decisions. Welcome to my GitHub profile, where I share my journey, projects, and learning experiences in SQL, Power BI, Python, and machine learning for data analysis
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amriteshrai7810&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ## About Me
 
